@@ -1,0 +1,6 @@
+C:\Web\Test2\Handler\MyApi\bin\Debug\MyApi.dll
+C:\Web\Test2\Handler\MyApi\bin\Debug\MyApi.pdb
+C:\Web\Test2\Handler\MyApi\obj\Debug\MyApi.csproj.AssemblyReference.cache
+C:\Web\Test2\Handler\MyApi\obj\Debug\MyApi.csproj.CoreCompileInputs.cache
+C:\Web\Test2\Handler\MyApi\obj\Debug\MyApi.dll
+C:\Web\Test2\Handler\MyApi\obj\Debug\MyApi.pdb

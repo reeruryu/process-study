@@ -1,0 +1,6 @@
+C:\Web\Test2\PipeServer2\PipeServer\bin\Release\PipeServer.exe
+C:\Web\Test2\PipeServer2\PipeServer\bin\Release\PipeServer.pdb
+C:\Web\Test2\PipeServer2\PipeServer\obj\Release\PipeServer.csproj.AssemblyReference.cache
+C:\Web\Test2\PipeServer2\PipeServer\obj\Release\PipeServer.csproj.CoreCompileInputs.cache
+C:\Web\Test2\PipeServer2\PipeServer\obj\Release\PipeServer.exe
+C:\Web\Test2\PipeServer2\PipeServer\obj\Release\PipeServer.pdb

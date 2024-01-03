@@ -1,0 +1,10 @@
+C:\Web\Test2\PipeClient2\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Web\Test2\PipeClient2\PipeClient\bin\Debug\PipeClient.exe
+C:\Web\Test2\PipeClient2\PipeClient\bin\Debug\PipeClient.pdb
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.csproj.AssemblyReference.cache
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.Form1.resources
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.Properties.Resources.resources
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.csproj.GenerateResource.cache
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.csproj.CoreCompileInputs.cache
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.exe
+C:\Web\Test2\PipeClient2\PipeClient\obj\Debug\PipeClient.pdb
