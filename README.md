@@ -5,7 +5,7 @@
 
 ## Architecture
 
-<img src="https://github.com/reeruryu/process-study/assets/87798704/51948a74-0eef-468b-83fd-1b8d4f29adf0" alt="Alt Text" width="600"/>
+<img src="https://github.com/reeruryu/process-study/assets/87798704/ba2faa29-7b11-4b48-8071-091a7974c588"/><br>
 
 ## Description
 
